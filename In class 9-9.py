@@ -29,4 +29,21 @@ for word in list5:
 
 ## Assignment 1
 
-#input_list=["Mike",60], ["Joe", 75], ["Sue", 85], ["Anne", 80], ["George", 75]
+input_list=["Mike",60], ["Joe", 75], ["Sue", 85], ["Anne", 80], ["George", 75]
+
+print(input_list)
+
+
+
+
+## Assignment 2
+
+#int=input("Enter an integer: ")
+
+
+
+number_list = list(range(1, 21, 2))
+
+for x in number_list:
+
+     print(x)
