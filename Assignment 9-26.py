@@ -31,5 +31,15 @@ while userStateInput != "q":
         userFactInput = "" 
 
 
-## To check dictionary outputs (optional)
-print(states)
+# for loop to output state and facts neetly
+for state in states:
+    print("Some facts about " + state + ": ")
+
+    for fact in states[state]:
+        print(fact)
+
+    #just to space out between groups of state and facts 
+    print("  ") 
+
+
+
