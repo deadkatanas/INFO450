@@ -12,3 +12,5 @@ arr = np.zeros((userInput,userInput))
 #def spiral(n):
 
     #could not figure out the rest... 
+
+print(arr)

@@ -22,5 +22,7 @@ def string_rev(input1):
     else:
         return input1[-1] + string_rev(input1[0:-1])
 
-xx=input("enter word ")
-print(string_rev(xx))
+#xx=input("enter word ")
+#print(string_rev(xx))
+
+
