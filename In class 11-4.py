@@ -47,3 +47,4 @@ array5 = np.random.randn(5,5)
 
 
 print(array5.size)
+
